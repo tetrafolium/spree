@@ -1,0 +1,8 @@
+inspecode:
+  brakeman: default
+  reek: default
+  rubocop:
+    options: [--rails]
+  misspell: default
+  rails_best_practices: default
+
